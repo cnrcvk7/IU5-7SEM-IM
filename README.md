@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from typing import List, Dict
 
-# ===АРАМЕТРЫ МОДЕЛИРОВАНИЯ ====
+# ===ПАРАМЕТРЫ МОДЕЛИРОВАНИЯ ====
 RANDOM_SEED = 42
 random.seed(RANDOM_SEED)
 np.random.seed(RANDOM_SEED)
